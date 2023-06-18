@@ -1,0 +1,36 @@
+/*counter 2*/
+.counter2{
+	padding-top: 10px;
+	background-color: black;
+	color: white;
+    text-align: center;
+  background: purple;
+}
+/*counter 3*/
+.container{ 
+	text-align: center; 
+}
+.container h1{
+          text-align: center;
+          font-size: 50px;
+          margin: 0;
+      }
+.counter-flex {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 600px;
+    }
+.counter-box {
+      width: 350px;
+    }
+.counter-box h2 {
+      font-size: 70px;
+      text-align: center;
+     
+      margin: 0;
+    }
+.counter-box p{
+        text-align: center;
+   
+    }
